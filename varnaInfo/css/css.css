@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Pacifico', cursive;
+}
+html{
+    height: 100%;
+}
+
+.h3{
+    font-family: 'Pacifico', cursive;
+}
+#h2{
+    font-family: 'Pacifico', cursive;
+}
+h5{
+    font-family: 'Pacifico', cursive;
+}
+body{    
+    background-color:rgb(224, 221, 221);
+    text-align: justify;
+    font-size: 14px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+header.main{
+    background-color: white;
+    line-height: 20px;
+    height: 20px;   
+    padding: 3%;
+    border-bottom-style: solid;
+    border-bottom-color: #999;
+    border-width: 3px;
+}
+.mains{
+    float: right;
+}
+.logo{
+    width: 1%;
+    line-height: 5%;
+    height: 2%;
+}
+#logo{
+  height:30px; 
+  width:200px;
+  float: left;
+}
+#feed{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2%;
+}
+.buttons{
+   text-align: center;
+}
+#negative{
+    text-align: center;
+    color: black;
+}
+#list{
+    margin-left: 5%;
+}
+header.title{
+    padding: 1%;
+    background-color: #ccc;
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 2%;
+}
+#top div, #bottom div {
+    margin-bottom: 4%;
+}
+#h2{
+    margin-top: 35px;
+}
+
+footer{
+    margin-top: 15px;
+    background-color: white;
+} 
+
